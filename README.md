@@ -21,10 +21,11 @@ Assistant Analytics Manager @ Genpact
 def Dhamodharan_A():
     skills_with_proficiency = {
         'Python': 'Intermediate',
+        'R' : 'Intermediate',
         'SQL': 'Advanced',
-        'PowerBI': 'Intermediate',
+        'Machine Learning': 'Intermediate',
         'Excel': 'Advanced',
-        'Machine Learning': 'Beginner'
+        'Power BI': 'Beginner'
     }
     tools = ['numpy', 'pandas', 'Power Query', 'AWS (EC2, RDS)', 'Azure OpenAI']
     AI_and_AdvancedAnalytics = ['Generative AI', 'Agentic AI', 'LangChain', 'LLM Integration', 'Vector Databases']
@@ -40,6 +41,4 @@ def Dhamodharan_A():
 </a>
 
 
-<a href="https://www.instagram.com/dhamo_dharan/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="26" height="26" target = "_blank" />
-</a>
+
