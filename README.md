@@ -1,14 +1,14 @@
 ## Hello there 👋, I am Dhamodharan Anjoor
 
-Assistant Analytics Manager @ Genpact
+Sr Analyst @ Genpact
 <img align="right" width="280" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🎓 Graduated in **B.Tech IT** from **Hindusthan College of Engineering and Technology**
-- 🌱 Currently exploring **Generative & Agentic AI**, **Python for Data Science**, SQL, Hive and Power BI
+- 🌱 Currently exploring **Generative AI**, **Python for Data Science**, SQL, Hive and Power BI
 - 💼 Previously worked with **Infosys**
 - 💻 Seeking challenging opportunities in **Data Analytics** and **Data Engineering** domains
 - 🤝 Open to collaborations in **AI**, **Data Science**, and **Machine Learning**
-- 🎯 Goal (2026): Contribute openly to the **Artificial Intelligence, Agentic AI and MCP community**
-- 💬 Ask me about Python scripting, Data Science, R, SQL, Power BI dashboards, Generative AI, Prompt Engineering, and Agentic AI
+- 🎯 Goal (2026): Contribute openly to the **Claude architecture**
+- 💬 Ask me about Python, Pyspark, Data Science, R, SQL, and Generative AI
 
 
 
@@ -25,10 +25,10 @@ def Dhamodharan_A():
         'SQL': 'Advanced',
         'Machine Learning': 'Intermediate',
         'Excel': 'Advanced',
-        'Power BI': 'Beginner'
+        'Pyspark': 'Beginner'
     }
-    tools = ['numpy', 'pandas', 'Power Query', 'AWS (EC2, RDS)', 'Azure OpenAI']
-    AI_and_AdvancedAnalytics = ['Generative AI', 'Agentic AI', 'LangChain', 'LLM Integration', 'Vector Databases']
+    tools = ['Python for Data science', 'SQL', 'AWS (EC2, RDS)', 'Pyspark']
+    AI_and_AdvancedAnalytics = ['Generative AI', 'LangChain', 'LLM Integration', 'Vector Databases']
     kaggle_competitions = "Getting started..."
     active_blogger = True
     return "∞"
