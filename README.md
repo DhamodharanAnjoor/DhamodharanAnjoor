@@ -1,44 +1,37 @@
 ## Hello there 👋, I am Dhamodharan Anjoor
 
+<img src="assets/hello.gif" width="300" align="right" alt="Data science animation">
+
 Sr Analyst @ Genpact
-<img align="right" width="280" height="220" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🎓 Graduated in **B.Tech IT** from **Hindusthan College of Engineering and Technology**
-- 🌱 Currently exploring **Generative AI**, **Python for Data Science**, SQL, Hive and Power BI
+
+- 🎓 B.Tech IT from **Hindusthan College of Engineering and Technology**
+- 🔭 Now working on **Python data pipelines, analytics apps (Streamlit), SQL, PySpark and Machine Learning**
 - 💼 Previously worked with **Infosys**
-- 💻 Seeking challenging opportunities in **Data Analytics** and **Data Engineering** domains
-- 🤝 Open to collaborations in **AI**, **Data Science**, and **Machine Learning**
-- 🎯 Goal (2026): Contribute openly to the **Claude architecture**
-- 💬 Ask me about Python, Pyspark, Data Science, R, SQL, and Generative AI
+- 💻 Looking for opportunities in **Data Analytics, Data Science and Data Engineering**
+- 🤝 Open to collaborating on **AI, Data Science and ML**
+- 🎯 Goal (2027): Contribute openly to the **Claude architecture**
+- 💬 Ask me about Python, PySpark, Data Science, R, SQL and Generative AI
 
+## 🚀 Featured Projects
+- **Multi-Brand Marketing Campaign Performance Analysis**: short one-line summary + link
+- **Customer Support Tickets Classification using ML**: short one-line summary + link
+- **Commercial Integrity Engine**: Streamlit-based anomaly scanning for pharma analytics
 
-
----
-
-
-### 🧑‍💻 Skills Snapshot
-
+## 👨‍💻 Skills Snapshot
 ```python
 def Dhamodharan_A():
     skills_with_proficiency = {
-        'Python': 'Intermediate',
-        'R' : 'Intermediate',
+        'Python': 'Advanced',
         'SQL': 'Advanced',
         'Machine Learning': 'Intermediate',
+        'Pyspark': 'Intermediate',
+        'R': 'Intermediate',
         'Excel': 'Advanced',
-        'Pyspark': 'Beginner'
     }
-    tools = ['Python for Data science', 'SQL', 'AWS (EC2, RDS)', 'Pyspark']
+    tools = ['Python', 'SQL', 'PySpark', 'Streamlit', 'AWS (EC2, RDS)', 'Power BI']
     AI_and_AdvancedAnalytics = ['Generative AI', 'LangChain', 'LLM Integration', 'Vector Databases']
-    kaggle_competitions = "Getting started..."
-    active_blogger = True
     return "∞"
 ```
 
-## Connect me on:
-
-<a href="https://www.linkedin.com/in/idhamo/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="26" height="26"  target = "_blank" />
-</a>
-
-
-
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=DhamodharanAnjoor&show_icons=true)
